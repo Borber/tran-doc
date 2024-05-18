@@ -8,10 +8,10 @@ hero:
     actions:
         - theme: brand
           text: Quick Start
-          link: /guide/
+          link: /guide/start/introduction
         - theme: alt
           text: Github
-          link: https://github.com/Borber/tran
+          link: https://github.com/Borber/Tran
     image:
         src: /icon.png
         alt: Tran Logo
